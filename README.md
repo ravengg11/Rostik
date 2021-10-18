@@ -68,7 +68,5 @@
 
 26)root@f798856ead4d:/student# touch file1 file2 file3 root@f798856ead4d:
 
-27)root@f798856ead4d:/student# mkdir dir1 dir2 dir3 root@f798856ead4d:
-
-28)root@f798856ead4d:~/student# cp file1 dir1
+27)root@f798856ead4d:/student# mkdir dir1 dir2 dir3 
 
